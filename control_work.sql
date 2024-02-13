@@ -1,4 +1,4 @@
--- task_one
+§-- task_one
 select
     p.name as product_name,
     sum(t.quantity) as total_quantity
